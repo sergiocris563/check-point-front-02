@@ -1,4 +1,3 @@
-// Código para o arquivo animals.js
 const animals = ["macaco", "tucano", "elefante", "pavão", "hipopótamo", "leão"];
 
 if (!animals.includes("leão")) {
